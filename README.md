@@ -2,7 +2,7 @@
 
 ![HCDTITEL](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/0763fbbe-afe5-477d-b35f-3f3df980a6aa)
 
-##Inleiding
+## Inleiding
 Voor het vak Human Centered Design maken we voor een gehandicapt persoon een specifiek ontwerp die aansluit bij de benodigdheden van ons persoon. We maken het ontwerp specifiek voor de gehandicapte in kwestie. Ik heb als persoon Nicolette aangewezen gekregen. 
 
 ## Persona
