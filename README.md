@@ -56,7 +56,11 @@ Teksten knippen en plakken. gaat nog niet maar wel het kopiëren en plakken van 
 ### feedback op de prototype
 het kopiëren en plakken werkt goed. De buttons zijn makkelijk te drukken. Selecteren met de pen is echt heel moeilijk. Zodra je op de pagina komt moet je gwn met de copy kunnen kopieren en plakken. Geen donkere kleuren gebruiken. Liever grote teksten. Maar vergroten werkt meestal wel. Dubbelklikken kan niet. Nicolette heeft dit uitgezet. ze gebruikt de checkboxes om te kopieren en plakken. Zinnen selecteren lukt niet. Toetsenbord is ook bruikbaar om een spatie in te drukken. 
 
-### Pijnpunten
+Voordelen:
+* Kopiëren werkt goed
+* Buttons zijn makkelijk te drukken
+
+Pijnpunten:
 * Selecteren met een pen is niet te doen
 * Scrollen
 * Kopiëren en plakken van bestanden en tekst
@@ -65,11 +69,7 @@ het kopiëren en plakken werkt goed. De buttons zijn makkelijk te drukken. Selec
 * Dubbelklikken kan niet
 * Spraak is niet echt fijn in openbare ruimtes
 
-### Voordelen
-* Kopiëren werkt goed
-* Buttons zijn makkelijk te drukken
-
-### Houdt in acht
+Andere punten:
 * Het contrast goed houden
 
 ## Nicolette test 2
@@ -80,6 +80,8 @@ Hoe dit werkt is als volgends: Een gebruiker spreekt een stukje tekst in wat hij
 
 ## Test
 ![67cef632-f2f1-41ec-b57f-f326a446dd38](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/946ee850-5c09-42a8-9035-d44be9d48545)
+
+
 ![ezgif com-video-to-gif_1](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/5d3e0d1d-f006-4f87-bf01-322908490632)
 
 Ik ben bij Nicolette mijn ontwerp gaan testen. Dit ontwerp was niet erg gestyled maar werkte naar behoren. Omdat Nicolette haar touchpad vergeten was moest het helaas met de mousepad. Hierdoor ging het iets stroever omdat Nicolette erg veel moeite heeft met het besturen van een laptop touchpad. We zijn vervolgens aan de slag gegaan met het testen. Nicolette vondt dit handig en niet gecompliceerd. Ze vertelde dat ze de spraaksoftware ook gebruikt voor het schrijven van haar artikelen. Ze geeft aan ook te kunnen kopiëren maar dat kan ze nog niet want ze weet niet hoe dat moet. 
@@ -90,11 +92,30 @@ Voordelen:
 * Er hoeft niet meer geselecteerd te worden
 * Er hoeven maar twee buttons ingedrukt te worden, namelijk aan en uit.
 
-Nadelen:
+pijnpunten:
 * Als er verkeerde woorden worden gesproken moeten deze handmatig weer veranderd worden.
 * Als je een lange tekst wilt kopiëren dan moet je heel veel voorlezen, dat kost veel tijd.
 
+Andere punten:
+* Nicolette wil ook kunnen scrollen
+* Nicolette vindt het makkelijk als er makkelijk op elementen gedrukt kan worden
 
+## Conclusie uit het testen
+Nicolette vindt het makkelijk om met een grote knop teksten te kopiëren. Het gebruik van spraaksoftware vindt Nicolette ook nuttig om te gebruiken en dit doet ze graag. Het selecteren van tekst met een pen is voor Nicolette wel echt een probleem, en om dit binnen drie weken te realiseren is ook erg lastig. Het implementeren van dit met spraaksoftware is erg lastig en is dan ook slechts alleen verbonden aan het web waardoor ze niet kan plakken naar een Microsoft Word. Het gebruik van contrast moet goed zijn en er mogen geen donkere kleuren gebruikt worden want Nicolette heeft daar nog wel eens problemen mee. Ook is het voor Nicolette lastig om te scrollen dus dit doet ze graag op een andere manier. Kortom ik ga mij nu focussen op het scrollen en het makkelijk kunnen kopiëren van teksten voor Nicolette.
+
+## Onderzoek
+Om de verschillende punten van Nicolette's feedback toe te passen ben ik begonnen om hier onderzoek naar te doen. Ik ben als eerst mijn HTML structuur gaan opstellen. Ik wilde graag grote buttons aan de zijkant hebben en deze moesten ten aller tijden in het beeldscherm blijven. Ook heb ik verschillende sections gemaakt waar naar toe te scrollen zijn. De kleurkeuze heb ik zo aangesloten dat het voor Nicolette aangenaam was en het moest een beetje aarde tinten hebben om aan te sluiten met het geografische verleden van Nicolette. Om goed het contrast te checken ben ik daar mee bezig gegaan.
+
+![Contrast1](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/887f633b-2c87-4376-bb21-f8388ed12c82)
+
+![Contrast2](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/f8cf5aed-64e1-4f31-b2d5-9cd8cc89ddfd)
+
+Vervolgens ben ik bezig gegaan met het onderzoeken van hoe groot ik de buttons moet maken. Uiteindelijk heb ik ze zo groot mogelijk gemaakt want dit ontwerp is specifiek gemaakt voor Nicolette en zij zal hier profijt van krijgen.
+
+### Resources
+
+* https://www.accessguide.io/guide/large-target-size#:~:text=Large%20buttons%20(44%20px)%20are,interact%20with%20websites%20and%20apps
+* https://webaim.org/resources/contrastchecker/
 <!-- Add a link to your live demo in Github Pages 🌐-->
 
 <!-- ☝️ replace this description with a description of your own work -->
