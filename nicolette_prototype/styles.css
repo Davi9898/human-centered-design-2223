@@ -28,7 +28,7 @@ p {
 }
 
 button {
-    background: linear-gradient(45deg, #383D40, #848F88, #68786D, #A3A6A1);
+    background: linear-gradient(45deg, #383D40, #444a4e );
     color: white;
     box-shadow: rgba(0, 0, 0, 0.4) 5px 5px;
     outline: none;
