@@ -1,0 +1,120 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body { 
+    background-color: rgb(171, 222, 245);
+    font-family: 'Roboto Slab', serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    position: absolute;
+    top: 1em;
+}
+
+p {
+    font-size: 1.15rem;
+}
+
+button {
+    background: linear-gradient(45deg, #383D40, #848F88, #68786D, #A3A6A1);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.4) 5px 5px;
+    outline: none;
+    border: none;
+}
+
+button:hover {
+    background: linear-gradient(45deg, #8d9ca5, #181a18, #8d9ca5, #181a18)
+}
+
+    .content-container {
+    width: 50%;
+    display: flex;
+    background-color: rgb(150, 177, 148);
+    padding: 5em;
+    border-radius: 1em;
+    position: relative;
+}
+
+.button-container {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+button {
+    padding: 2em;
+    margin: 1em;
+    cursor: pointer;
+    transition: .3s;
+    font-size: 1.5em;
+}
+
+
+
+img {
+    object-fit: cover;
+    float: right;
+    max-width: 45%;
+    padding: 0 0 2rem 2rem;
+}
+
+#notification {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 60px;
+    border-radius: 5px;
+    text-align: center;
+    z-index: 10;
+    opacity: 1;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes earthquake {
+    0% {transform: translate(0px, 0px);}
+    25% {transform: translate(10px, 10px);}
+    50% {transform: translate(-10px, -10px);}
+    75% {transform: translate(10px, -10px);}
+    100% {transform: translate(-10px, 10px);}
+}
+
+body.earthquake {
+    animation: earthquake 0.1s linear 10;
+}
+
+.uitleg {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+
+.h3-uitleg {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 2em
+}
