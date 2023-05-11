@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-    font-size: 1.15rem;
+    font-size: 1rem;
 }
 
 button {
@@ -42,7 +42,7 @@ button:hover {
     .content-container {
     width: 50%;
     display: flex;
-    background-color: rgb(150, 177, 148);
+    background-color: #96b194;
     padding: 5em;
     border-radius: 1em;
     position: relative;
