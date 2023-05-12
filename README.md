@@ -1,12 +1,6 @@
 # Nicolette's copy&scroll hulp
 
-![HCDTITEL](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/0763fbbe-afe5-477d-b35f-3f3df980a6aa)
-
-## Inleiding
-Voor het vak Human Centered Design maken we voor een gehandicapt persoon een specifiek ontwerp die aansluit bij de benodigdheden van ons persoon. We maken het ontwerp specifiek voor de gehandicapte in kwestie. Ik heb als persoon Nicolette aangewezen gekregen. 
-
-## Persona
-Nicolette Besemer is een 76 jarige vrouw die in een rolstoel zit. Ze kan niet goed met haar handen omgaan en heeft soms last van tremors en spasmes. Om te navigeren op het internet gebruikt Nicolette een tekenpad die functioneert als muis. Hier kan ze goed mee overweg en klikken. Typen gaat echter niet en hier gebruikt zij spraaksoftware voor. 
+![HCDTITEL](https://github.com/Davi9898/human-centered-design-2223/assets/76910947/0763fbbe-afe5-477d-b35f-3f3df980a6aa) 
 
 ## Onderzoeksvraag
 ### Hoe kan ik een interface ontwerpen en ontwikkelen voor Nicolette die het makkelijk maakt voor haar om te scrollen en te kopiëren.
@@ -21,6 +15,12 @@ Om aan Nicolette haar behoeften te voldoen ben ik aan de slag gegaan met het mak
 https://davi9898.github.io/human-centered-design-2223/nicolette_prototype/
 
 # Documentatie van de Design Principles, User Needs, Testen en Testresultaten
+
+## Inleiding
+Voor het vak Human Centered Design maken we voor een gehandicapt persoon een specifiek ontwerp die aansluit bij de benodigdheden van ons persoon. We maken het ontwerp specifiek voor de gehandicapte in kwestie. Ik heb als persoon Nicolette aangewezen gekregen. 
+
+## Persona
+Nicolette Besemer is een 76 jarige vrouw die in een rolstoel zit. Ze kan niet goed met haar handen omgaan en heeft soms last van tremors en spasmes. Om te navigeren op het internet gebruikt Nicolette een tekenpad die functioneert als muis. Hier kan ze goed mee overweg en klikken. Typen gaat echter niet en hier gebruikt zij spraaksoftware voor.
 
 ## User needs
 **Who**: Nicolette is een gehandicapte vrouw met een lichamelijke beperking, zij heeft problemen met de motorische controle en heeft ook last van spasmes en tremoren.
